@@ -8,7 +8,7 @@ print(3.14)  # Lebegőpontos literál
 print("Hello World")
 print('Hello World')
 
-employee_name = "John Doe"
+employee_name = "John Doe" # Snake Case
 print(employee_name)
 
 age = 30
